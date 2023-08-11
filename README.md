@@ -1,19 +1,14 @@
 ### Hi. Thanks for coming here 👋 Want some coffee ? ☕
-
-## Summary
 I'm Khanh, a mediocre dev with a big desire. I'm deeply interested in building, deploying systems, tinkering with new stuff (AI, distributed systems, ...), and just like to have things worked.
 
-## My Tech Stack
 I'm pretty confident in a variety of technologies and tools:
-- 💬 Languages: Python, Go, JS
-- 💬 Frameworks / Libraries: FastAPI, Pytorch, ReactJS
-- 💬 Tools: Docker, Jenkins, Nginx, 
-- 💬 Databases: Postgres, MySQL, Redis, ScyllaDB
-- Also some exp in configuring cloud services & homelab
+- 💬 Writing code in Python, Golang, on frameworks (FastAPI, Pytorch, Mux, ...)
+- 💬 Building systems, working with databases & services
+- 💬 Also some exp in configuring cloud services & home-lab
 
-## What I'm Working On
+### What I'm working on
 - Job: currently an intern, working with blockchain application & systems
-- Personal: I'm trying to build a high-performance system for real-time / high-load scenarios. Using distributed databases, messages broker, caching and things. **And just keep learning.**
+- Personal: I'm trying to build a high-performance system for real-time / high-load scenarios. Using distributed databases, messages brokers, caching and some other things. **And keep learning.**
 
 <!--
 - 🔭 I’m currently working on ...
