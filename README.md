@@ -14,7 +14,7 @@ I'm pretty confident in a variety of technologies and tools:
 
 ## What I'm Working On
 - Job: currently an intern, working with blockchain application & systems
-- Personal: I'm trying to build a high-performance system for real-time / high-load scenarios. Using distributed databases, messages broker, caching and things. *And just keep learning.*
+- Personal: I'm trying to build a high-performance system for real-time / high-load scenarios. Using distributed databases, messages broker, caching and things. **And just keep learning.**
 
 <!--
 - 🔭 I’m currently working on ...
