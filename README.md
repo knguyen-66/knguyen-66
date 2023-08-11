@@ -1,4 +1,4 @@
-##### Hi. Thanks for coming here 👋 Want some coffee ? ☕
+### Hi. Thanks for coming here 👋 Want some coffee ? ☕
 
 ## Summary
 I'm Khanh, a mediocre dev with a big desire. I'm deeply interested in building, deploying systems, tinkering with new stuff (AI, distributed systems, ...), and just like to have things worked.
