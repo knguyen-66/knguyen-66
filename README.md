@@ -1,8 +1,8 @@
 ### Hi. Thanks for coming here 👋 Want some coffee ? ☕
-I'm Khanh, a mediocre dev with a big desire. I'm deeply interested in building, deploying systems, tinkering with new stuff (AI, distributed systems, ...), and just like to have things worked.
+I'm Khanh, a mediocre dev with a big desire. I'm deeply interested in building, deploying systems, tinkering with new stuff (AI, distributed systems, ...), and just like to have things work.
 
 I'm pretty confident in a variety of technologies and tools:
-- 🔭 Writing code in Python, Golang, on frameworks (FastAPI, Pytorch, Mux, ...)
+- 🔭 Writing code in Python, Golang and related frameworks (FastAPI, Pytorch, Mux, ...)
 - 🔭 Building systems, working with databases & services
 - 🔭 Also some exp in configuring cloud services & home-lab
 
