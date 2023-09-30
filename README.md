@@ -4,11 +4,11 @@ I'm Khanh, a mediocre dev with a big desire. I'm deeply interested in building, 
 I'm pretty confident in a variety of technologies and tools:
 - 🔭 Writing code in Python, Golang and related frameworks (FastAPI, Pytorch, Mux, ...)
 - 🔭 Building systems, working with databases & services
-- 🔭 Also some exp in configuring cloud services & home-lab
+- 🔭 Configuring cloud services & home-labs
 
 ### What I'm working on
 - Job: currently an intern, working with blockchain application & systems
-- Personal: I'm trying to build a high-performance system for real-time / high-load scenarios. Using distributed databases, messages brokers, caching and some other things. **And keep learning.**
+- Personal: trying to build a high-performance system for real-time / high-load scenarios. Using distributed databases, messages brokers, caching and some other things. **And keep learning.**
 
 <!--
 - 🔭 I’m currently working on ...
