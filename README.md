@@ -1,5 +1,5 @@
-### Hi. Want some coffee ? ☕
-I'm Khanh, a mediocre dev with a big desire. I'm deeply interested in building, deploying systems, tinkering with new stuff (AI, distributed systems, ...), and just like to have things work.
+### Hi there. Just a short intro ☕
+I'm Khanh, a developer with a big desire. I'm deeply interested in building, deploying systems, tinkering with new stuff (AI, distributed systems, ...), and just like to make things work.
 
 I'm pretty confident in a variety of technologies and tools:
 - 🔭 Writing code in Python, Golang and related frameworks (FastAPI, Pytorch, Mux, ...)
@@ -7,7 +7,7 @@ I'm pretty confident in a variety of technologies and tools:
 - 🔭 Configuring cloud services & home-labs
 
 ### What I'm working on
-- Job: currently an intern, working with blockchain application & systems
+- Job: currently an intern, working with blockchain application & systems.
 - Personal: trying to build a high-performance system for real-time / high-load scenarios. Using distributed databases, messages brokers, caching and some other things. **And keep learning.**
 
 <!--
