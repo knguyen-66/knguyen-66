@@ -7,8 +7,8 @@ I'm pretty confident in a variety of technologies and tools:
 - 🔭 Configuring cloud services & home-labs
 
 ### What I'm working on
-- Job: currently an intern, working with blockchain application & systems.
-- Personal: trying to build a high-performance system for real-time / high-load scenarios. Using distributed databases, messages brokers, caching and some other things. **And keep learning.**
+- Job: currently a DevOps intern, building internal-use application for managing team machines
+- Personal: building a platform for people to design their own chatbot with their data. **And keep learning.**
 
 <!--
 - 🔭 I’m currently working on ...
