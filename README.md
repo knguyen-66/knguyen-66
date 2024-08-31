@@ -1,14 +1,14 @@
-### Hi there. Just a short intro ☕
-I'm Khanh, a developer with a big desire. I'm deeply interested in building, deploying systems, tinkering with new stuff (AI, distributed systems, ...), and just like to make things work.
+### Hi there. Small talk incoming ☕
+I'm Khanh, a dev geek. I'm deeply interested in building, deploying systems, tinkering with new stuff (AI, distributed systems, ...), and just like to make things work.
 
-I'm pretty confident in a variety of technologies and tools:
+I can be decent in a variety of technologies and toolkits:
 - 🔭 Writing code in Python, Golang and related frameworks (FastAPI, Pytorch, Mux, ...)
-- 🔭 Building systems, working with databases & services
-- 🔭 Configuring cloud services & home-labs
+- 🔭 Building not-a-single-user-traffic systems, working with databases & (micro)services
+- 🔭 Configuring cloud services & home labs
 
 ### What I'm working on
-- Job: currently a DevOps intern, building internal-use application for managing team machines
-- Personal: building a platform for people to design their own chatbot with their data. **And keep learning.**
+- Job: currently a DevOps intern, building internal-use applications for monitoring hardware changes
+- Personal: building a platform for people to design their own chatbot with their data (update: scratched that shit, too suck). **And keep learning.**
 
 <!--
 - 🔭 I’m currently working on ...
